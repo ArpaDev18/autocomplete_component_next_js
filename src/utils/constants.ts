@@ -1,0 +1,1 @@
+export const SEARCH_DELAY_TIME=300
